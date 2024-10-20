@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for bes opportunities in **Web Development**
+- 🤝 I’m looking for best opportunities in **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadabrar02](https://github.com/muhammadabrar02)
 

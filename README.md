@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
-![My Template](https://www.canva.com/design/DAGUgQhuFtw/TmOyB81J1tfgITJLo4sHRw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
+<img src="" />
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 

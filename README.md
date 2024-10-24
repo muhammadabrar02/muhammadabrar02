@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abrar</h1>
-<img src="abrar.png" />
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 

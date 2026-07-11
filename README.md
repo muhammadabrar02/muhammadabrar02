@@ -92,41 +92,6 @@ I've worked directly with clients and cross-functional teams to translate busine
 
 ---
 
-## 💼 Experience
-
-**Full Stack Intern** · *March 2026 – May 2026*
-Working on a client-focused business application, contributing to both frontend and backend development. Collaborating directly with clients to gather requirements, assisting with AI-powered feature integration, and maintaining performance, scalability, and code quality across the stack.
-
-**Full Stack Trainee — Workly (HRMS)** · *Jan 2026 – Feb 2026*
-Contributed across the full development cycle of a Human Resource Management System — from UI design discussions to backend implementation, module development, bug fixes, and API integration for HR operations.
-
----
-
-## 📌 Featured Project
-
-### 🚀 Portfolio Website
-
-A personal portfolio showcasing my projects, skills, and experience as a Full Stack Developer — built and deployed with modern web technologies.
-
-> Clean interfaces. Real projects. No fluff.
-
-🔗 **[my-portfolio-m5fx.vercel.app](https://my-portfolio-m5fx.vercel.app/)**
-
----
-
-## 📜 Certifications
-
-- The Automation Lab — n8n Automation (Decotechs)
-- Project Management Professional Certificate (Google — Coursera)
-- Front End Development (freeCodeCamp)
-- Back End Development and APIs (freeCodeCamp)
-- JavaScript Algorithms and Data Structures (freeCodeCamp)
-- Information Security Developer (freeCodeCamp)
-- Quality Assurance Developer (freeCodeCamp)
-- Google AI Essentials (Google — Coursera)
-
----
-
 ## 🎓 Education
 
 **BS Software Engineering** (2026)

@@ -64,8 +64,10 @@ I've worked directly with clients and cross-functional teams to translate busine
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,prisma,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgresql,sqlite,supabase,prisma,python" />
 </p>
+
+`SQL` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `PostgreSQL`
 
 ### AI Tools
 

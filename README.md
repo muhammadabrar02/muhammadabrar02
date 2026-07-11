@@ -141,16 +141,6 @@ Sindh Madressatul Islam University (SMIU), Karachi, Pakistan
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadabrar02&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
----
-
 ## 💬 Philosophy
 
 > **Good code works. Great products solve real problems for real people.**
